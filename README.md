@@ -50,6 +50,8 @@
     <a href="https://nodejs.org" rel="noreferrer" target="_blank"><img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="height: 40px; width: 40px;" /></a>
     <a href="https://nestjs.com/" rel="noreferrer" target="_blank"><img alt="nestjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="height: 40px; width: 40px;" /></a>
     <a href="https://expressjs.com" rel="noreferrer" target="_blank"><img alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="height: 40px; width: 40px;" /></a>
+    <a href="https://expressjs.com" rel="noreferrer" target="_blank"><img alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" style="height: 40px; width: 40px;" /></a>
+    
 </p>
 <h3>Languages:</h3>
 <p>
